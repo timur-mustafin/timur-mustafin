@@ -81,9 +81,11 @@ END STATS CARD -->
 ---
 
 ### 🏛 Personal Motto
-*Non est salvatori salvator, neque defensori dominus, nec pater nec mater, **Nihil Supernum**.*
+_"<p>*Non est salvatori salvator, <p>neque defensori dominus, <p>nec pater nec mater,
+<p>**Nihil Supernum**.*"_
 
-_"There is no savior for the savior, no lord for the defender, no father, no mother, **nothing above**."_
+_"<p>There is no savior for the savior, <p>no lord for the defender, <p>no father, no mother, 
+<p>**nothing above**."_
 
 
 # 🌐 Connect with me
