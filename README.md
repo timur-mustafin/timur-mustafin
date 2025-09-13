@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mustafin.info/files/matrix_fall_looped_white_head.svg" width="600"/>
+  <img src="https://mustafin.info/files/matrix_fall_tight_50x7" width="600"/>
 </p>
 
 # 💫 About Me
