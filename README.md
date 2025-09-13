@@ -82,7 +82,7 @@ I strive to write clean, optimized, and secure code, continuously learn new tech
 ---
 
 ### 🏛 Personal Motto
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhi-static.z-dn.net%2Ffiles%2Fd02%2F9f40a2246ff412d7557b3dd223bf6087.jpg&f=1&nofb=1&ipt=2cd07ffab20e19430c3fb3da8f1176ade7b5051024933b928298492a9605f045">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhi-static.z-dn.net%2Ffiles%2Fd02%2F9f40a2246ff412d7557b3dd223bf6087.jpg&f=1&nofb=1&ipt=2cd07ffab20e19430c3fb3da8f1176ade7b5051024933b928298492a9605f045" width="620">
 "There's a difference between knowing the path and walking the path."
 — Morpheus
 
