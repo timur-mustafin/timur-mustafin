@@ -1,4 +1,6 @@
-<img src="https://mustafin.info/files/matrix_fall_looped_white_head.svg" />
+<p align="center">
+  <img src="https://mustafin.info/files/matrix_fall_looped_white_head.svg" width="600"/>
+</p>
 
 # 💫 About Me
 
