@@ -1,3 +1,5 @@
+https://mustafin.info/files/matrix_fall_static_effect_v2.svg?cols=300&rows=10&font=16
+
 # 💫 About Me
 
 I am **Timur Mustafin**, a Senior Backend Developer with 12+ years in IT and strong expertise in **Python, Django, FastAPI, PostgreSQL, and cloud-native microservices**.  
