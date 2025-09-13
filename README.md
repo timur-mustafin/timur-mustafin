@@ -82,7 +82,7 @@ I strive to write clean, optimized, and secure code, continuously learn new tech
 ---
 
 ### 🏛 Personal Motto
-<img src="https://mustafin.info/files/morpheus.jpg">
+<img src="https://mustafin.info/files/morpheus.jpg" width="420">
 "There's a difference between knowing the path and walking the path."
 <br> — Morpheus
 
