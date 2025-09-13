@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://mustafin.info/files/matrix_fall_tight_50x7" width="600"/>
-</p>
+<img src="https://mustafin.info/files/matrix_fall_tight_50x7"/>
 
 # 💫 About Me
 
