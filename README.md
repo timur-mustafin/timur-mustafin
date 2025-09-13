@@ -1,4 +1,4 @@
-<img src="https://mustafin.info/files/matrix_fall_static_effect_v2.svg" />
+<img src="https://mustafin.info/files/matrix_fall_looped_white_head.svg" />
 
 # 💫 About Me
 
