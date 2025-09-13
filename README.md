@@ -72,7 +72,8 @@ I strive to write clean, optimized, and secure code, continuously learn new tech
 </div>
 
 # 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=default-writer&show_icons=true&custom_title=Timur%20Mustafin's%20GitHub%20Stats&theme=vue-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=default-writer&show_icons=true&custom_title=Timur%20Mustafin's%20GitHub%20Stats&theme=gotham)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timur-mustafin&layout=compact&theme=gotham)
 
 ![Projects](https://img.shields.io/badge/Projects-3_Active-orange)
