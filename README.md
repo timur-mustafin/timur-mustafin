@@ -82,10 +82,7 @@ I strive to write clean, optimized, and secure code, continuously learn new tech
 ---
 
 ### 🏛 Personal Motto
-<img src="https://mustafin.info/files/morpheus.png" width="520" style="display:block;">
-
-"There's a difference between knowing the path and walking the path."
-<br> — Morpheus
+<img src="https://mustafin.info/files/morpheus_quote_overlay.svg" width="520">
 
 _<p>"Non est salvatori salvator, <br>neque defensori dominus, <br>nec pater nec mater,
 <br><b>Nihil Supernum</b>."_
