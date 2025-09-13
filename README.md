@@ -82,14 +82,7 @@ I strive to write clean, optimized, and secure code, continuously learn new tech
 ---
 
 ### 🏛 Personal Motto
-<div style="position: relative; display: inline-block;">
-  <img src="https://mustafin.info/files/morpheus.jpg" width="520" style="display:block;">
-  <div style="
-      position: absolute;
-      inset: 0;
-      background: rgba(0, 0, 0, 0.5);
-    "></div>
-</div>
+<img src="https://mustafin.info/files/morpheus.png" width="520" style="display:block;">
 
 "There's a difference between knowing the path and walking the path."
 <br> — Morpheus
