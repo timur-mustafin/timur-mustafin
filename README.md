@@ -72,7 +72,9 @@ I strive to write clean, optimized, and secure code, continuously learn new tech
 </div>
 
 # 📊 GitHub Stats
+<!-- STATS CARD (disabled)
 ![Stats](https://github-readme-stats.vercel.app/api?username=default-writer&show_icons=true&custom_title=Timur%20Mustafin's%20GitHub%20Stats&theme=gotham)
+END STATS CARD -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timur-mustafin&layout=compact&theme=gotham)
 
