@@ -72,10 +72,8 @@ I strive to write clean, optimized, and secure code, continuously learn new tech
 </div>
 
 # 📊 GitHub Stats
-<!-- STATS CARD (disabled)
-![](https://github-readme-stats.vercel.app/api?username=default-writer&show_icons=true&custom_title=Timur%20Mustafin's%20GitHub%20Stats)
-END STATS CARD -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timur-mustafin&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=default-writer&show_icons=true&custom_title=Timur%20Mustafin's%20GitHub%20Stats&theme=shadow_green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timur-mustafin&layout=compact&theme=shadow_green)
 
 ![Projects](https://img.shields.io/badge/Projects-3_Active-orange)
 ![Profile views](https://komarev.com/ghpvc/?username=timur-mustafin&style=flat-square&color=blue)
