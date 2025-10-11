@@ -1,4 +1,4 @@
-<img src="https://mustafin.info/files/matrix_column_fall_waterfall_50x10.svg"/>
+<img src="https://mustafin.info/files/matrix_column_fall_waterfall_50x10_b_bg.svg"/>
 
 # 💫 About Me
 
