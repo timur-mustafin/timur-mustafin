@@ -71,7 +71,7 @@ I strive to write clean, optimized, and secure code, continuously learn new tech
 </div>
 
 # 📊 GitHub Stats
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=timur-mustafin&theme=hacker&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timur-mustafin&layout=compact&theme=shadow_green&hide_border=true)
 
 ![Projects](https://img.shields.io/badge/Projects-1_Active-orange)
